@@ -10,4 +10,4 @@ Xion saca de su bolsillo una pequeña botella con un contenido verde.
 
 La tomas y te levantas.
 
-[Seguir a Xion.](../espanol/despertar/xion/xion.md)
+[Seguir a Xion.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
