@@ -13,4 +13,4 @@ El joven saca de su bolsillo una pequeña botella con un contenido verde.
 Tomas el contenido de la botella.
 Pasan unos minutos y te levantas.
 
-[Seguir a Xion.](../espanol/despertar/xion/xion.md)
+[Seguir a Xion.](https://github.com/OscarOK/create-your-own-adventure/blob/change/espanol/despertar/xion/xion.md)
