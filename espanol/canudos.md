@@ -10,6 +10,8 @@ el Consejero:
 
 [Llegó el periodista miope con noticias importantes.](noticias/noticias.md)
 
+[Entonces despertó.](despertar/despertar.md)
+
 [Suddenly realized he was far from home
 and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
 
@@ -93,7 +95,7 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
 
-Al despertar y enfocar la vista vió lo que había sucedido tras la 
+Al despertar y enfocar la vista vió lo que había sucedido tras la
 explosión [que pasó?](explosion/explosion.md)
 
 Salió corriendo y no se lo vio nunca más en el reino
